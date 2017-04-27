@@ -9,7 +9,7 @@ class App extends Component {
           <div className="sad-flexy-item">
             <div className="sad-face"><h1>:&#123;</h1></div>
             <h1>Hi there.</h1>
-            <p>We are Sad Function, and we'll be online soon. Check back for regular updates!</p>
+            <p>We are SadFunction, and we'll be online soon. Check back for regular updates!</p>
             <div className="sad-progress-bar">
               <div id="sad-progress"></div>
             </div>
